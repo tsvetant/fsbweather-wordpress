@@ -1,10 +1,7 @@
-[![Facebook Button](http://demo.gamebird-studios.com/_assets/envato/facebook.png "Follow us on Facebook")](http://facebook.com/gamebirdstudios/ "Follow Gamebird Studios on Facebook") [![Envato Button](http://demo.gamebird-studios.com/_assets/envato/envato.png "Follow us on Envato")](http://themeforest.net/user/elementpz/follow "Follow Gamebird Studios on Envato Market") [![Twitter Button](http://demo.gamebird-studios.com/_assets/envato/twitter.png "Follow us on Twitter")](http://twitter.com/gamebirdstudios/ "Follow Gamebird Studios on Twitter") [![Support Button](http://demo.gamebird-studios.com/_assets/envato/support.png "Find Live Support")](http://support.gamebird-studios.com/ "Gamebird Studios Live Support")  
-![Rate Us Image](http://demo.gamebird-studios.com/_assets/envato/imagemap_bot.png "Give us your rating") ![](http://demo.gamebird-studios.com/_assets/envato/fsbw_previewanimation.gif)
 
-### Demo Admin Panel ([open](http://demo.gamebird-studios.com/fsbweather/wp-admin/))
+### Demo Admin Panel ([open](#))
 
-User: **test**  
-Password: **test**  
+Demo is offline
 
 Fullscreen Weather Background is a WordPress plugin designed in matters of functionality, usability and stylish design. With this plugin you can easily turn your static WordPress template into great looking multimedia web site. You can select between dozens of transparent patterns to cover your video background in order to fit every web site template.  
 
