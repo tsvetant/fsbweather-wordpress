@@ -1,4 +1,7 @@
 
+### Fullscreen Weather Background Plugin for WordPress
+### Last updated: August 2013
+
 ![Screen 1](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_1.png)
 ![Screen 2](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_2.png)
 ![Screen 3](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_3.png)
