@@ -1,0 +1,65 @@
+/*--------------------------------------*/
+/*------ Fixes for the background ------*/
+/*--------------------------------------*/
+
+.ui-video-background {position: absolute;top: 30px;left: 840px;}
+.ui-video-background-controls {margin: 0;padding: 0 10px;}
+.ui-video-background-controls li {float: left;padding: 10px;}
+
+body {margin: 0;}
+embed,iframe,object,video {max-width:inherit!important;}
+.video-background {position: fixed;top: 0;left: 0;overflow: hidden;width: 100%;height: 100%;z-index: 0;}
+.video-background video {min-height: 100%; min-width:100%; }
+#page { position: relative;}
+#fwbdiv {position: fixed;width:100%;height:100%;z-index:0;left:0;top:0;z-index: -1;}
+#video-pattern, #video-shards-pattern {display: block;width: 100%;height: 100%;position: fixed;top: 0;left: 0;}
+	#video-shards-pattern {opacity: .95}
+/*.fixed-weather {overflow: hidden;}*/
+#fixed-reload {
+	background: url('http://i.imgur.com/pOWoM88.png') no-repeat 10px center;
+	width: 25px;
+	height: 32px;
+	position: fixed;
+	z-index: 999;
+	right: 5px;
+	bottom: 5px;
+	cursor: pointer;
+}
+	#fixed-reload.active {background-position: -16px center;width: 25px;}
+
+.fixed-weather>ul {
+	position: absolute;
+	background: rgba(0, 0, 0, 0.25);
+	bottom: 50px;
+	left: -1px;
+	margin-bottom: 71px;
+	width: 301px;
+	-webkit-transition:all .1s ease-in;  
+	-moz-transition:all .1s ease-in;  
+	-o-transition:all .1s ease-in;  
+	transition:all .1s ease-in; 
+	opacity: 0;
+}
+.fixed-weather:hover ul {
+	opacity: 1;
+	bottom: 0;
+}
+	.fixed-weather>ul>li>a { 
+		background: rgba(255, 255, 255, 0);
+		text-align: center;
+		display: block;
+		padding: 0 5px;
+		font-family: 'Arial';
+		color: #FFF;
+		text-decoration: none;
+		line-height: 21px;
+		text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+		font-size: 10px;
+		text-transform: uppercase;
+		-webkit-transition:all .1s ease-in;  
+		-moz-transition:all .1s ease-in;  
+		-o-transition:all .1s ease-in;  
+		transition:all .1s ease-in;  
+		letter-spacing: 1px;
+	}
+		.fixed-weather>ul>li>a:hover { background: rgba(0, 0, 0, 0.25); }
