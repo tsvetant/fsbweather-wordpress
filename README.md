@@ -1,4 +1,9 @@
 
+![Screen 1](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_1.png)
+![Screen 2](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_2.png)
+![Screen 3](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_3.png)
+![Screen 4](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screenfront_4.png)
+
 ### Demo Admin Panel ([open](#))
 
 Demo is offline
@@ -51,5 +56,9 @@ Fullscreen Weather Background is a WordPress plugin designed in matters of funct
 <pre>[Add] Basic version
 </pre>
 
-For more support visit  
-[![](http://support.gamebird-studios.com/__swift/themes/client_default/images/staffonline.png)](http://support.gamebird-studios.com/)
+Admin CP Screens:
+
+![CP Screen 1](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screencp_1.png)
+![CP Screen 2](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screencp_2.png)
+![CP Screen 3](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screencp_3.png)
+![CP Screen 4](https://raw.githubusercontent.com/tsvetant/fsbweather-wordpress/master/Screenshots/screencp_4.png)
